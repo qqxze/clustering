@@ -1,0 +1,4 @@
+KM-base:Counter({False: 60, True: 440})
+GM-base:Counter({False: 59, True: 441})
+KM-GM:Counter({False: 5, True: 495})
+NMI  是计算了 两者的互信息熵 联合熵 值越大  说明信息量越大 越不确定 越不能分辨谁准确 所以说明聚类效果越好
